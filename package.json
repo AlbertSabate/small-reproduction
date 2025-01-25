@@ -1,0 +1,24 @@
+{
+  "name": "with-tailwindcss",
+  "module": "src/pages/index.tsx",
+  "type": "module",
+  "webTitle": "Tailwind CSS v4",
+  "example-category": "integrations",
+  "scripts": {
+    "dev": "brisa dev",
+    "dev:debug": "brisa dev --debug",
+    "build": "brisa build",
+    "start": "brisa start"
+  },
+  "dependencies": {
+    "@tailwindcss/postcss": "4.0.0",
+    "brisa": "0.2.4-canary.3",
+    "brisa-tailwindcss": "0.2.4-canary.3",
+    "postcss": "8.5.1",
+    "tailwindcss": "4.0.0"
+  },
+  "devDependencies": {
+    "@types/bun": "latest",
+    "typescript": "latest"
+  }
+}
