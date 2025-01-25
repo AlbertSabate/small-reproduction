@@ -1,7 +1,8 @@
-# with-tailwindcss
-
-Example with [Tailwind CSS](https://brisa.build/building-your-application/integrations/tailwind-css#integrating-tailwind-css) in Brisa.
+# Brisa with-tailwindcss BunJS v1.2.0
 
 ```bash
-bun create brisa --example with-tailwindcss
+bun i
+bun run dev
 ```
+
+[Site](http://localhost:3000)
